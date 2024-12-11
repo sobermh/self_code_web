@@ -1,6 +1,0 @@
-Django
-djangorestframework
-djangorestframework_simplejwt
-openpyxl
-pandas
-rest_framework_simplejwt
